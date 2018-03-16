@@ -1,4 +1,4 @@
 # best-repo-ever
 
 
-This is just saimple text to check my understanding.
+This is just simple text to check my understanding.
